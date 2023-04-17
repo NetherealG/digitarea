@@ -1,0 +1,67 @@
+/* Estilo para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    background-image: url(../img/fondo2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+h1 {
+    font-size: 3.5rem;
+    margin-bottom: 1rem;
+}
+
+#listaNombres {
+    background-color: #b8802e;
+    background-size: cover;
+    border: 1px solid #ccc;
+    padding: 1rem;
+}
+
+
+#listaNombres ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#listaNombres li {
+    margin-bottom: 0.5rem;
+}
+
+.card {
+    border: none;
+    box-shadow: 0 2px 4px rgba(42, 42, 42, 0.15);
+}
+
+.card-img-top {
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.card-title {
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+.card-text {
+    font-size: 1rem;
+    color: #798895;
+    margin-bottom: 0;
+}
+
+
+.btn-primary {
+    background-color: #ffcc00;
+    border-color: #ffcc00;
+}
+
+
+
+
+
+
+
